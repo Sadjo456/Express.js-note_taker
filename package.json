@@ -1,4 +1,23 @@
 {
+  "name": "express.js-note_taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadjo456/Express.js-note_taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadjo456/Express.js-note_taker/issues"
+  },
+  "homepage": "https://github.com/Sadjo456/Express.js-note_taker#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
